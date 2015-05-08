@@ -84,7 +84,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory out/50x50_protoboard/))
+      (outputdirectory out/50x50_top_left/))
   )
 
   (net 0 "")

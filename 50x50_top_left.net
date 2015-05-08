@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /home/johs/work/electronics/50x50_protoboard/50x50_protoboard.sch)
+    (source /home/johs/work/electronics/50x50_top_left/50x50_top_left.sch)
     (date "2015-05-08T03:27:34 CEST")
     (tool "Eeschema (2015-01-08 BZR 5360)-product"))
   (components
