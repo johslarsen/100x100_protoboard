@@ -1,0 +1,689 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-08 BZR 5360)-product   date = 2015-05-08T05:56:24 CEST
+
+BeginCmp
+TimeStamp = /53FF7346;
+Reference = C1;
+ValeurCmp = u33;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FF75B7;
+Reference = C2;
+ValeurCmp = u1;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD4216;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = Connect:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DDB6F8;
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = Muonde:CC12ZZ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DDB707;
+Reference = F2;
+ValeurCmp = FUSE;
+IdModule  = Muonde:CC12ZZ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3555;
+Reference = GND1;
+ValeurCmp = INTERCONNECT_1X16;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x16;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C5F03;
+Reference = GND2;
+ValeurCmp = INTERCONNECT_1X07;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x07;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD38D0;
+Reference = GND3;
+ValeurCmp = INTERCONNECT_1X16;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x16;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C6002;
+Reference = GND4;
+ValeurCmp = INTERCONNECT_1X07;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x07;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD38F5;
+Reference = J1;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD39F9;
+Reference = J2;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A09;
+Reference = J3;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A19;
+Reference = J4;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A29;
+Reference = J5;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A39;
+Reference = J6;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A49;
+Reference = J7;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A59;
+Reference = J8;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3AE9;
+Reference = J9;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3AF9;
+Reference = J10;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B09;
+Reference = J11;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B19;
+Reference = J12;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B29;
+Reference = J13;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B39;
+Reference = J14;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B49;
+Reference = J15;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B59;
+Reference = J16;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD39E1;
+Reference = J17;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A01;
+Reference = J18;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A11;
+Reference = J19;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A21;
+Reference = J20;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A31;
+Reference = J21;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A41;
+Reference = J22;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A51;
+Reference = J23;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3A61;
+Reference = J24;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3AF1;
+Reference = J25;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B01;
+Reference = J26;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B11;
+Reference = J27;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B21;
+Reference = J28;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B31;
+Reference = J29;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B41;
+Reference = J30;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B51;
+Reference = J31;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B61;
+Reference = J32;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B69;
+Reference = J33;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B79;
+Reference = J34;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B89;
+Reference = J35;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B99;
+Reference = J36;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3BA9;
+Reference = J37;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3BB9;
+Reference = J38;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3BC9;
+Reference = J39;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3BD9;
+Reference = J40;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3BE9;
+Reference = J41;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3BF9;
+Reference = J42;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C09;
+Reference = J43;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C19;
+Reference = J44;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C29;
+Reference = J45;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C39;
+Reference = J46;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C49;
+Reference = J47;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C59;
+Reference = J48;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B71;
+Reference = J49;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B81;
+Reference = J50;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3B91;
+Reference = J51;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3BA1;
+Reference = J52;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3BB1;
+Reference = J53;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3BC1;
+Reference = J54;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3BD1;
+Reference = J55;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3BE1;
+Reference = J56;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3BF1;
+Reference = J57;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C01;
+Reference = J58;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C11;
+Reference = J59;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C21;
+Reference = J60;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C31;
+Reference = J61;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C41;
+Reference = J62;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C51;
+Reference = J63;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD3C61;
+Reference = J64;
+ValeurCmp = INTERCONNECT_1X03;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD425C;
+Reference = J65;
+ValeurCmp = INTERCONNECT_1X02;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD424D;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_1x2_Shorted_T;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD422F;
+Reference = JP2;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_1x2_Shorted_T;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD423E;
+Reference = JP3;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_1x2_Shorted_T;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FB40CE;
+Reference = JP4;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_1x2_Shorted_T;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FB40DD;
+Reference = JP5;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_1x2_Shorted_T;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE5756;
+Reference = JP6;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_1x2_Shorted_T;
+EndCmp
+
+BeginCmp
+TimeStamp = /554BE7A5;
+Reference = JP7;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_1x2_Shorted_T;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C2684;
+Reference = JP8;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C2180;
+Reference = JP9;
+ValeurCmp = JUMPER;
+IdModule  = Oddities:NetTie-I_Connected_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C3F38;
+Reference = JP10;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_SMD_1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C20D9;
+Reference = JP11;
+ValeurCmp = JUMPER;
+IdModule  = Oddities:NetTie-I_Connected_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C1FE7;
+Reference = JP12;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_SMD_1x2_Shorted;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C1E76;
+Reference = JP13;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_1x2_Shorted_T;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C1F5A;
+Reference = JP14;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_1x2_Shorted_T;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C2717;
+Reference = JP15;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_SMD_1x2_Shorted;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C2B9D;
+Reference = P1;
+ValeurCmp = CONN_6X2;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /554C2C4F;
+Reference = P2;
+ValeurCmp = CONN_6X2;
+IdModule  = 2.54mm_Pin_Headers:Edge_2x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /554BAE87;
+Reference = U1;
+ValeurCmp = LM7805CT;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD38AD;
+Reference = VCC1;
+ValeurCmp = INTERCONNECT_1X16;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x16;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD388A;
+Reference = VDD1;
+ValeurCmp = INTERCONNECT_1X16;
+IdModule  = 2.54mm_Pin_Headers:Interconnect_1x16;
+EndCmp
+
+BeginCmp
+TimeStamp = /554BCE60;
+Reference = VIN1;
+ValeurCmp = CONN_2;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /554BBC78;
+Reference = VIN2;
+ValeurCmp = CONN_6;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /554BC195;
+Reference = VIN_78XX1;
+ValeurCmp = CONN_2;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /554BB9EB;
+Reference = VOUT_78XX1;
+ValeurCmp = CONN_6;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x06;
+EndCmp
+
+EndListe
