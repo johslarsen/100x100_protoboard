@@ -31,7 +31,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:connectors
 LIBS:2.54mm_pin_headers
-LIBS:50x50_top_right-cache
+LIBS:50x50_bottom_left-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
