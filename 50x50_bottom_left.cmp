@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-08 BZR 5360)-product   date = 2015-05-09T04:58:37 CEST
+Cmp-Mod V01 Created by Cvpcb (2015-01-08 BZR 5360)-product   date = 2015-05-09T19:20:06 CEST
 
 BeginCmp
 TimeStamp = /53FF7346;
@@ -626,15 +626,15 @@ EndCmp
 BeginCmp
 TimeStamp = /554C2B9D;
 Reference = P1;
-ValeurCmp = CONN_6X2;
-IdModule  = Socket_Strips:Socket_Strip_Straight_2x06;
+ValeurCmp = CONN_8X2;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x08;
 EndCmp
 
 BeginCmp
 TimeStamp = /554C2C4F;
 Reference = P2;
-ValeurCmp = CONN_6X2;
-IdModule  = 2.54mm_Pin_Headers:Edge_2x06;
+ValeurCmp = CONN_8X2;
+IdModule  = 2.54mm_Pin_Headers:Edge_2x08;
 EndCmp
 
 BeginCmp
