@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-08 BZR 5360)-product   date = 2015-05-08T04:41:11 CEST
+Cmp-Mod V01 Created by Cvpcb (2015-01-08 BZR 5360)-product   date = 2015-05-09T05:16:29 CEST
 
 BeginCmp
 TimeStamp = /53FF7346;
@@ -592,21 +592,21 @@ BeginCmp
 TimeStamp = /554C2180;
 Reference = JP9;
 ValeurCmp = JUMPER;
-IdModule  = Oddities:NetTie-I_Connected_SMD;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_SMD_1x2_Shorted;
 EndCmp
 
 BeginCmp
 TimeStamp = /554C3F38;
 Reference = JP10;
 ValeurCmp = JUMPER;
-IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_SMD_1x2;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_SMD_1x2_Shorted;
 EndCmp
 
 BeginCmp
 TimeStamp = /554C20D9;
 Reference = JP11;
 ValeurCmp = JUMPER;
-IdModule  = Oddities:NetTie-I_Connected_SMD;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_SMD_1x2_Shorted;
 EndCmp
 
 BeginCmp
@@ -634,7 +634,7 @@ BeginCmp
 TimeStamp = /554C2717;
 Reference = JP15;
 ValeurCmp = JUMPER;
-IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_SMD_1x2_Shorted;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_SMD_1x2;
 EndCmp
 
 BeginCmp
