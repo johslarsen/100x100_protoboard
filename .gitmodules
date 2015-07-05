@@ -7,6 +7,3 @@
 [submodule "lib/SMD.pretty"]
 	path = lib/SMD.pretty
 	url = ../SMD.pretty
-[submodule "lib/Misc.pretty"]
-	path = lib/Misc.pretty
-	url = ../Misc.pretty
