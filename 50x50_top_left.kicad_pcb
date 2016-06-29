@@ -1,11 +1,11 @@
-(kicad_pcb (version 4) (host pcbnew "(2015-01-08 BZR 5360)-product")
+(kicad_pcb (version 4) (host pcbnew 4.0.2-stable)
 
   (general
     (links 341)
     (no_connects 10)
-    (area 18.365667 17.871 83.267572 73.5965)
+    (area 22.526 17.871 81.997572 75.424714)
     (thickness 1.6)
-    (drawings 66)
+    (drawings 65)
     (tracks 88)
     (zones 0)
     (modules 106)
@@ -2866,7 +2866,6 @@
   (gr_arc (start 58.42 71.12) (end 57.912 71.12) (angle 90) (layer Edge.Cuts) (width 0.0254))
   (gr_line (start 76.2 70.612) (end 58.42 70.612) (angle 90) (layer Edge.Cuts) (width 0.0254))
   (gr_arc (start 76.2 71.12) (end 76.2 70.612) (angle 90) (layer Edge.Cuts) (width 0.0254))
-  (gr_arc (start 78.74 71.12) (end 78.232 71.12) (angle 90) (layer Edge.Cuts) (width 0.0254))
   (gr_arc (start 78.74 68.58) (end 78.74 69.088) (angle 90) (layer Edge.Cuts) (width 0.0254))
   (gr_line (start 78.232 27.94) (end 78.232 68.58) (angle 90) (layer Edge.Cuts) (width 0.0254))
   (gr_arc (start 78.74 27.94) (end 78.232 27.94) (angle 90) (layer Edge.Cuts) (width 0.0254))
